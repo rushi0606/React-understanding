@@ -1,7 +1,7 @@
 function App() {
 
   return ( 
-    <h1>hello world, chai aur react with vite</h1>
+    <h1> Hello world, chai aur react with vite</h1>
   )
 }
 

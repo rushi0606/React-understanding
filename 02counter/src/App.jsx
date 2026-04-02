@@ -15,7 +15,7 @@ let [counter, setCounter] = useState(15)
 
     const removeValue = () => {
     console.log("clicked", counter);
-    //counter = counter + 1
+    //counter = counter - 1
     setCounter(counter - 1)
     
   }
